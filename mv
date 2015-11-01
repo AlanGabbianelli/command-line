@@ -1,0 +1,4 @@
+mv (short for "move") is a command used to move files or directory.
+The syntax is: mv /dir1/sub_dir1/my_file_name /dir2/sub_dir2/my_file_name
+It can change the file name while moving it: /dir1/sub_dir1/my_file_name /dir2/sub_dir2/different_file_name
+It can also be used to only change the file name without moving it: mv my_file_name different_file_name
