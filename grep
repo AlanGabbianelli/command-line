@@ -1,0 +1,3 @@
+grep is the command used for searching thing inside files.
+Syntax: grep what_to_search file_where_to_search
+Example: grep pay ~/Documents/Contract.doc
