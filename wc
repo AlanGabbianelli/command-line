@@ -1,0 +1,6 @@
+wc (word count) prints the number of newlines, words, and bytes of a file.
+Syntax: wc my_file
+"wc -c my_file" prints the number of bytes
+"wc -m my_file" prints the number of characters
+"wc -l my_file" prints the number of newlines
+"wc -w my_file" prints the number of words
